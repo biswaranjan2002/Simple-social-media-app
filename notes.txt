@@ -1,0 +1,9 @@
+In this app
+  Users post likh paenge
+  users create karne hain 
+  log in and register
+  logout 
+  post creation 
+  post like 
+  post delete
+  
